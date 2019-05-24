@@ -2,18 +2,6 @@
 
 This is the first file in this Repo.
 
-## Ipsum below
+## Website Content
 
-svavknvkjnjbvjkbav nk jnaekf n kjnkdf nn 
-svnakjvnsdkn 
-slkvnksnvkjnvnjernv rfvwejfnksknd
-sfeijejfkwenfkjwefn
-weifwnfkjwnflna
-w;fjwlifjel jjunewkjfnw
-
-## Some more Ipsum
-
-ksnvjkdvnf
-dfvnkdjvn
-dfvndkjfnvkdjfv
-djkvnfdkjvnkd
+1. index.html
